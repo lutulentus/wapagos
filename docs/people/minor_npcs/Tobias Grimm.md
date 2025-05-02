@@ -1,1 +1,1 @@
-apparso legato come un salame alla fine della [OneShot](../../../../not found)
+apparso legato come un salame alla fine della [OneShot](../../../not found)

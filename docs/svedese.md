@@ -1,2 +1,2 @@
 #publishme 
-[Rostok](../places/Rostok.md) ha una lingua (../../not found) che sarebbe tipo una italianizzazione di lingue europee nordiche, tipicamente germaniche tipo tedesco/inglese o scandinave (.), ma anche ungherese 
+[Rostok](places/Rostoklocanda di Grumf.mdmd) ha una lingua (locanda di Grumf.mdlocanda di Grumf.md/not found) che sarebbe tipo una italianizzazione di lingue europee nordiche, tipicamente germaniche tipo tedesco/inglese o scandinave (locanda di Grumf.md), ma anche ungherese 

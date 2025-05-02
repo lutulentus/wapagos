@@ -1,2 +1,2 @@
 #publishme 
-quella dei [Fondatori](../Fondatori.md)
+quella dei [Fondatori](Fondatori.md)

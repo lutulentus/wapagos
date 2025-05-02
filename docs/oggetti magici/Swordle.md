@@ -1,2 +1,2 @@
 #publishme 
-spada che [Golurtz](../../people/minor_npcs/Golurtz.md) affida ai [WAPAGOs](../../people/wapagos/WAPAGOs.md) da consegnare a [Godor](../../people/minor_npcs/Godor.md). Ha un wordle da risolvere, garantisce poteri
+spada che [Golurtz](../people/minor_npcs/Golurtz.md) affida ai [WAPAGOs](../people/wapagos/WAPAGOs.md) da consegnare a [Godor](../people/minor_npcs/Godor.md). Ha un wordle da risolvere, garantisce poteri

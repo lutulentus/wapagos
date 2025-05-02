@@ -1,5 +1,5 @@
 #publishme 
 Dragonide Paladino Oathbreaker
-Affiliazione: [WAPAGOs](../WAPAGOs.md)
-[Scheda](../../../../not found)
-Grande grosso e sfigato coi dadi, ha lasciato il culto della violenza di [Garyx](../../bigshots/Garyx.md) il quale non l'ha presa benissimo. In [Rostok](../../../places/Rostok.md) ci sarebbe una ciudad da cui viene, sta nelle [Fauci](../../../places/Fauci.md). Ha una specie di [Marchio](../../../Marchio.md) del sacrificio come focus arcano da Paladino. Entra nei Ws dopo che lo liberano dal Controlla Persone di [Gretel Grimm](../../raps_vess/Gretel Grimm.md). Notare che gli ho fatto l'entrata stile Guts/Kuroi Kenshin e poi ha immediatamente rollato 1 sul d20. Da qui e dagli smite mancati di [Ep1 - Botti alla sagra](../../../episodes/Ep1 - Botti alla sagra.md) capisci che Garyx l'ha maledetto. Calvin rimuove la maledizione nell'Ep successivo.
+Affiliazione: [WAPAGOs](WAPAGOs.md)
+[Scheda](../../../not found)
+Grande grosso e sfigato coi dadi, ha lasciato il culto della violenza di [Garyx](../bigshots/Garyx.md) il quale non l'ha presa benissimo. In [Rostok](../../places/Rostok.md) ci sarebbe una ciudad da cui viene, sta nelle [Fauci](../../places/Fauci.md). Ha una specie di [Marchio](../../Marchio.md) del sacrificio come focus arcano da Paladino. Entra nei Ws dopo che lo liberano dal Controlla Persone di [Gretel Grimm](../raps_vess/Gretel Grimm.md). Notare che gli ho fatto l'entrata stile Guts/Kuroi Kenshin e poi ha immediatamente rollato 1 sul d20. Da qui e dagli smite mancati di [Ep1 - Botti alla sagra](../../episodes/Ep1 - Botti alla sagra.md) capisci che Garyx l'ha maledetto. Calvin rimuove la maledizione nell'Ep successivo.

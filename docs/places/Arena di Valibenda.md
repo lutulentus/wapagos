@@ -1,2 +1,2 @@
 #publishme 
-l'Arena di Verona [Valibenda](../Valibenda.md).
+l'Arena di Verona [Valibenda](Valibenda.md).

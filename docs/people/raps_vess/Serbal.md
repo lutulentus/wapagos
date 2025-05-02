@@ -4,4 +4,4 @@
 
 >la rapsodia mi impedisce di castare tempesta di fulmini, mi tocchera' menarti con le mie mani
 
-goliath Monaco dei [Rapsodi Maggiori](../Rapsodi Maggiori.md),
+goliath Monaco dei [Rapsodi Maggiori](Rapsodi Maggiori.md),

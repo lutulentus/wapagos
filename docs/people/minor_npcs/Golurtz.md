@@ -1,2 +1,2 @@
 #publishme 
-mezzorco Fabbro della [contrada](../../../../not found) omonima di [Valibenda](../../../places/Valibenda.md). collabora con i [WAPAGOs](../../wapagos/WAPAGOs.md) nella puntata natalizia [Ep4 - Golurtz's III](../../../episodes/Ep4 - Golurtz's III.md)
+mezzorco Fabbro della [contrada](../../../not found) omonima di [Valibenda](../../places/Valibenda.md). collabora con i [WAPAGOs](../wapagos/WAPAGOs.md) nella puntata natalizia [Ep4 - Golurtz's III](../../episodes/Ep4 - Golurtz's III.md)

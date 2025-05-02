@@ -1,6 +1,6 @@
 #publishme #episode 15/12/2024
-prec: [Ep2 - Scampagnata nel bosco](../Ep2 - Scampagnata nel bosco.md)
-succ: [Ep4 - Golurtz's III](../Ep4 - Golurtz's III.md)
-i [bro](../../people/wapagos/WAPAGOs.md) arrivano a [Valibenda](../../places/Valibenda.md) e scoprono che [Odin Eidoras](../../people/raps_vess/Odin Eidoras.md) c'ha lasciato la [macchia nera](../../../not found) quindi [Erika](../../people/raps_vess/Erika.md) e [Rigel](../../people/raps_vess/Rigel.md) li mandano a pigliarlo. Odin sta depresso da ~30 anni dopo che il suo amico/vessillo Godor e' stato posseduto dalla [nebbia](../../spells/nebbia.md) e l'ha dovuto sopprimere.
-A casa di Odin trovano trappola con messaggio in codice con i [tarocchi](../../tarocchi.md) sul mito dei [Fondatori](../../people/bigshots/Fondatori.md). Seguono indizi nelle fogne. Sbucano nell'arena di Verona, trovano Odin. Sta insieme a un androide che chiama Godor. Fa discorso febbrile sul non fidarsi dei rapsodi e loro menzogne, poi si lascia spezzare il collo dal robot, il quale se ne va col corpo.
+prec: [Ep2 - Scampagnata nel bosco](Ep2 - Scampagnata nel bosco.md)
+succ: [Ep4 - Golurtz's III](Ep4 - Golurtz's III.md)
+i [bro](../people/wapagos/WAPAGOs.md) arrivano a [Valibenda](../places/Valibenda.md) e scoprono che [Odin Eidoras](../people/raps_vess/Odin Eidoras.md) c'ha lasciato la [macchia nera](../../not found) quindi [Erika](../people/raps_vess/Erika.md) e [Rigel](../people/raps_vess/Rigel.md) li mandano a pigliarlo. Odin sta depresso da ~30 anni dopo che il suo amico/vessillo Godor e' stato posseduto dalla [nebbia](../spells/nebbia.md) e l'ha dovuto sopprimere.
+A casa di Odin trovano trappola con messaggio in codice con i [tarocchi](../tarocchi.md) sul mito dei [Fondatori](../people/bigshots/Fondatori.md). Seguono indizi nelle fogne. Sbucano nell'arena di Verona, trovano Odin. Sta insieme a un androide che chiama Godor. Fa discorso febbrile sul non fidarsi dei rapsodi e loro menzogne, poi si lascia spezzare il collo dal robot, il quale se ne va col corpo.
   

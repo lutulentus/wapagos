@@ -1,8 +1,8 @@
 #publishme 
 Hobbit Ranger custode dello Sciame
-Affiliazione: [WAPAGOs](../WAPAGOs.md)
-[Scheda](../../../../not found)
-Va in giro con la sua fedele balestra e il suo ancora piu' fedele sciame di api. Originario di [Tesselberg](../../../Tesselberg.md). Gli ho fatto incontrare [Ahjin](../Ahjin.md) in una mini sessione di prova.
+Affiliazione: [WAPAGOs](WAPAGOs.md)
+[Scheda](../../../not found)
+Va in giro con la sua fedele balestra e il suo ancora piu' fedele sciame di api. Originario di [Tesselberg](../../Tesselberg.md). Gli ho fatto incontrare [Ahjin](Ahjin.md) in una mini sessione di prova.
 
 
 >Witten Honeythumb nacque nel Maryland, un tranquillo insediamento di halfling incastonato tra prati ondulati e fitti boschi della valle del chiampo. Mentre la maggior parte dei suoi simili si accontentava di prendersi cura dei propri campi e celebrare le piccole gioie della vita, Witten aveva sempre un occhio attento per le opportunità, soprattutto quando si trattava di denaro. Sfortunatamente, non era né particolarmente forte né particolarmente coraggioso.  

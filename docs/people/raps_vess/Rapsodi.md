@@ -1,5 +1,5 @@
 #publishme 
-quelli che usano, fra le altre cose, l'incantesimo di [Rapsodia](../../../spells/Rapsodia.md). Praticamente tutti i Rapsodi piu' forti stanno in politica, e la crème de la crème sono i [Rapsodi Maggiori](../Rapsodi Maggiori.md)
+quelli che usano, fra le altre cose, l'incantesimo di [Rapsodia](../../spells/Rapsodia.md). Praticamente tutti i Rapsodi piu' forti stanno in politica, e la crème de la crème sono i [Rapsodi Maggiori](Rapsodi Maggiori.md)
 
   
 
