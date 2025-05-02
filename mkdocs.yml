@@ -1,102 +1,104 @@
 site_name: My Wiki
-strict: false
 theme:
   name: material
 nav:
-- 'Ep8  ': Ep8 -.md
-- Marchio: Marchio.md
-- Sbronza: Sbronza.md
-- Tesselberg: Tesselberg.md
-- Ancora: ancora.md
-- Cantina Delle Idee:
-  - Colonna Sonora: cantina delle idee/Colonna sonora.md
-  - Link Utili: cantina delle idee/link utili.md
-- Episodes:
-  - Ep0   Delitto A Villa Giada: episodes/Ep0 - Delitto a Villa Giada.md
-  - Ep1   Botti Alla Sagra: episodes/Ep1 - Botti alla sagra.md
-  - Ep2   Scampagnata Nel Bosco: episodes/Ep2 - Scampagnata nel bosco.md
-  - Ep3   Il Fantasma Dell'Opera: episodes/Ep3 - Il Fantasma dell'Opera.md
-  - Ep4   Golurtz'S Iii: episodes/Ep4 - Golurtz's III.md
-  - Ep5   Nowhere Man: episodes/Ep5 - Nowhere Man.md
-  - Ep6   Mirage: episodes/Ep6 - Mirage.md
-  - Ep7   Il Trivio Del Destino: episodes/Ep7 - Il trivio del destino.md
-  - Epx   E Adesso?: episodes/EpX - E adesso?.md
-  - The Big Picture: episodes/the big picture.md
-- Events:
-  - Squarcio: events/Squarcio.md
-  - Torneo Dei Rioni: events/Torneo dei Rioni.md
-- Fabbri Di Valibenda: fabbri di valibenda.md
-- Guilds:
+- Home: index.md
+- .:
+  - Locanda Di Grumf: ./locanda di Grumf.md
+  - Tesselberg: ./Tesselberg.md
+  - Ep8 -: ./Ep8 -.md
+  - Ancora: ./ancora.md
+  - Tarocchi: ./tarocchi.md
+  - Tentazione: ./tentazione.md
+  - Svedese: ./svedese.md
+  - Fabbri Di Valibenda: ./fabbri di valibenda.md
+  - Readme: ./README.md
+  - Index: ./index.md
+  - Marchio: ./Marchio.md
+  - Mappa: ./mappa.md
+  - Sbronza: ./Sbronza.md
+- guilds:
   - Askeladden: guilds/Askeladden.md
-- Index: index.md
-- Locanda Di Grumf: locanda di Grumf.md
-- Mappa: mappa.md
-- Mostri:
-  - Biechi Blu: mostri/Biechi blu.md
-  - Oni: mostri/Oni.md
-  - Ramoth: mostri/ramoth.md
-  - Zenofero: mostri/zenofero.md
-- Oggetti Magici:
-  - Opale: oggetti magici/Opale.md
-  - Swordle: oggetti magici/Swordle.md
-- People:
-  - A Men: people/A-men.md
-  - Bigshots:
-    - Asano Askelar: people/bigshots/Asano Askelar.md
+- people:
+  - Template Character: people/template character.md
+  - A-Men: people/A-men.md
+  - wapagos:
+    - Gillian Grimm: people/wapagos/Gillian Grimm.md
+    - Ahjin: people/wapagos/Ahjin.md
+    - Witten Honeythumb: people/wapagos/Witten Honeythumb.md
+    - Persephone: people/wapagos/Persephone.md
+    - Aatrox: people/wapagos/Aatrox.md
+    - Ollecram: people/wapagos/Ollecram.md
+    - Wapagos: people/wapagos/WAPAGOs.md
+  - bigshots:
     - Delorien Mello: people/bigshots/Delorien Mello.md
-    - Fondatori: people/bigshots/Fondatori.md
     - Garyx: people/bigshots/Garyx.md
     - Kandiaru: people/bigshots/Kandiaru.md
+    - Fondatori: people/bigshots/Fondatori.md
     - Kilgore Uter: people/bigshots/Kilgore Uter.md
-  - Minor Npcs:
-    - Axolotl: people/minor_npcs/Axolotl.md
-    - Co Op: people/minor_npcs/Co-op.md
+    - Asano Askelar: people/bigshots/Asano Askelar.md
+  - minor_npcs:
     - Cornelius Bosch: people/minor_npcs/Cornelius Bosch.md
-    - Eliofasoecesareo: people/minor_npcs/ElioFasoeCesareo.md
+    - Golurtz: people/minor_npcs/Golurtz.md
     - Ezequiel: people/minor_npcs/Ezequiel.md
     - Godor: people/minor_npcs/Godor.md
-    - Golurtz: people/minor_npcs/Golurtz.md
-    - Hans Grimm: people/minor_npcs/Hans Grimm.md
+    - Eliofasoecesareo: people/minor_npcs/ElioFasoeCesareo.md
     - Melchior: people/minor_npcs/Melchior.md
+    - Axolotl: people/minor_npcs/Axolotl.md
+    - Hans Grimm: people/minor_npcs/Hans Grimm.md
     - Nathan: people/minor_npcs/Nathan.md
     - Tobias Grimm: people/minor_npcs/Tobias Grimm.md
-  - Raps Vess:
-    - Aberon: people/raps_vess/Aberon.md
-    - Calvin Baladon: people/raps_vess/Calvin Baladon.md
-    - Erika: people/raps_vess/Erika.md
-    - Gretel Grimm: people/raps_vess/Gretel Grimm.md
-    - Mirage: people/raps_vess/Mirage.md
-    - Nori: people/raps_vess/Nori.md
-    - Odin Eidoras: people/raps_vess/Odin Eidoras.md
-    - Rapsodi Maggiori: people/raps_vess/Rapsodi Maggiori.md
+    - Co-Op: people/minor_npcs/Co-op.md
+  - raps_vess:
     - Rapsodi: people/raps_vess/Rapsodi.md
     - Rigel: people/raps_vess/Rigel.md
+    - Aberon: people/raps_vess/Aberon.md
+    - Erika: people/raps_vess/Erika.md
+    - Rapsodi Maggiori: people/raps_vess/Rapsodi Maggiori.md
+    - Gretel Grimm: people/raps_vess/Gretel Grimm.md
+    - Odin Eidoras: people/raps_vess/Odin Eidoras.md
     - Serbal: people/raps_vess/Serbal.md
+    - Mirage: people/raps_vess/Mirage.md
+    - Nori: people/raps_vess/Nori.md
     - Vessilli: people/raps_vess/Vessilli.md
-  - Template Character: people/template character.md
-  - Wapagos:
-    - Aatrox: people/wapagos/Aatrox.md
-    - Ahjin: people/wapagos/Ahjin.md
-    - Gillian Grimm: people/wapagos/Gillian Grimm.md
-    - Ollecram: people/wapagos/Ollecram.md
-    - Persephone: people/wapagos/Persephone.md
-    - Wapagos: people/wapagos/WAPAGOs.md
-    - Witten Honeythumb: people/wapagos/Witten Honeythumb.md
-- Places:
-  - Arena Di Valibenda: places/Arena di Valibenda.md
-  - Coltre Oscura: places/Coltre Oscura.md
+    - Calvin Baladon: people/raps_vess/Calvin Baladon.md
+- places:
+  - Il Puledro Rosso: places/il puledro rosso.md
+  - Galsenia: places/Galsenia.md
+  - Valibenda: places/Valibenda.md
   - Curon: places/Curon.md
   - Fauci: places/Fauci.md
-  - Galsenia: places/Galsenia.md
-  - Lirio: places/Lirio.md
+  - Coltre Oscura: places/Coltre Oscura.md
+  - Arena Di Valibenda: places/Arena di Valibenda.md
   - Rostok: places/Rostok.md
-  - Valibenda: places/Valibenda.md
-  - Il Puledro Rosso: places/il puledro rosso.md
-- Spells:
-  - Ashardalon'S Stride: spells/Ashardalon's Stride.md
+  - Lirio: places/Lirio.md
+- episodes:
+  - Ep4 - Golurtz'S Iii: episodes/Ep4 - Golurtz's III.md
+  - Ep7 - Il Trivio Del Destino: episodes/Ep7 - Il trivio del destino.md
+  - Ep2 - Scampagnata Nel Bosco: episodes/Ep2 - Scampagnata nel bosco.md
+  - The Big Picture: episodes/the big picture.md
+  - Epx - E Adesso?: episodes/EpX - E adesso?.md
+  - Ep0 - Delitto A Villa Giada: episodes/Ep0 - Delitto a Villa Giada.md
+  - Ep5 - Nowhere Man: episodes/Ep5 - Nowhere Man.md
+  - Ep3 - Il Fantasma Dell'Opera: episodes/Ep3 - Il Fantasma dell'Opera.md
+  - Ep6 - Mirage: episodes/Ep6 - Mirage.md
+  - Ep1 - Botti Alla Sagra: episodes/Ep1 - Botti alla sagra.md
+- events:
+  - Squarcio: events/Squarcio.md
+  - Torneo Dei Rioni: events/Torneo dei Rioni.md
+- cantina delle idee:
+  - Colonna Sonora: cantina delle idee/Colonna sonora.md
+  - Link Utili: cantina delle idee/link utili.md
+- mostri:
+  - Zenofero: mostri/zenofero.md
+  - Ramoth: mostri/ramoth.md
+  - Biechi Blu: mostri/Biechi blu.md
+  - Oni: mostri/Oni.md
+- spells:
   - Rapsodia: spells/Rapsodia.md
-  - Nebbia: spells/nebbia.md
   - Scissa: spells/scissa.md
-- Svedese: svedese.md
-- Tarocchi: tarocchi.md
-- Tentazione: tentazione.md
+  - Ashardalon'S Stride: spells/Ashardalon's Stride.md
+  - Nebbia: spells/nebbia.md
+- oggetti magici:
+  - Opale: oggetti magici/Opale.md
+  - Swordle: oggetti magici/Swordle.md
