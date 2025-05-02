@@ -1,0 +1,2 @@
+#publishme 
+focus arcano di [Aatrox](Aatrox.md), inizia a sanguinare quando si attiva una magia legata alla Rapsodia (ho dimenticato di farlo in [Ep0 - Delitto a Villa Giada](Ep0 - Delitto a Villa Giada.md) quando Calvin incanta il vestito) 
