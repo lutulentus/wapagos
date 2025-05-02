@@ -1,17 +1,8 @@
 site_name: My Wiki
-strict: true
+strict: false
 theme:
   name: material
 nav:
-- .Obsidian:
-  - Themes:
-    - Anuppuccin:
-      - .Github:
-        - Issue Template:
-          - Bug Report: .obsidian/themes/AnuPpuccin/.github/ISSUE_TEMPLATE/bug_report.md
-          - Feature Removal: .obsidian/themes/AnuPpuccin/.github/ISSUE_TEMPLATE/feature-removal.md
-          - Feature Request: .obsidian/themes/AnuPpuccin/.github/ISSUE_TEMPLATE/feature_request.md
-      - Readme: .obsidian/themes/AnuPpuccin/README.md
 - 'Ep8  ': Ep8 -.md
 - Marchio: Marchio.md
 - Sbronza: Sbronza.md
