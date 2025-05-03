@@ -23,7 +23,7 @@
 - [Ep1   Botti Alla Sagra](episodes/Ep1%20-%20Botti%20alla%20sagra.md)
 - [Ep2   Scampagnata Nel Bosco](episodes/Ep2%20-%20Scampagnata%20nel%20bosco.md)
 - [Ep3   Il Fantasma Dell'Opera](episodes/Ep3%20-%20Il%20Fantasma%20dell'Opera.md)
-- [Ep4   Golurtz's III](episodes/Ep4_Golurtzs_III.md)
+- [Ep4   Golurtz's III](episodes/Ep4_Golurtz_III.md)
 - [Ep5   Nowhere Man](episodes/Ep5%20-%20Nowhere%20Man.md)
 - [Ep6   Mirage](episodes/Ep6%20-%20Mirage.md)
 - [Ep7   Il Trivio Del Destino](episodes/Ep7%20-%20Il%20trivio%20del%20destino.md)
