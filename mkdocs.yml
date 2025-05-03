@@ -55,49 +55,49 @@ nav:
     - Aberon: people/raps_vess/Aberon.md
     - Erika: people/raps_vess/Erika.md
     - Rapsodi Maggiori: people/raps_vess/Rapsodi Maggiori.md
-    - Gretel Grimm: people/raps_vess/Gretel Grimm.md
-    - Odin Eidoras: people/raps_vess/Odin Eidoras.md
+    - Gretel Grimm: people/raps_vess/"Gretel Grimm.md"
+    - Odin Eidoras: people/raps_vess/"Odin Eidoras.md"
     - Serbal: people/raps_vess/Serbal.md
     - Mirage: people/raps_vess/Mirage.md
     - Nori: people/raps_vess/Nori.md
     - Vessilli: people/raps_vess/Vessilli.md
-    - Calvin Baladon: people/raps_vess/Calvin Baladon.md
+    - Calvin Baladon: people/raps_vess/"Calvin Baladon.md"
 - places:
-  - Il Puledro Rosso: places/il puledro rosso.md
+  - Il Puledro Rosso: places/"il puledro rosso.md"
   - Galsenia: places/Galsenia.md
   - Valibenda: places/Valibenda.md
   - Curon: places/Curon.md
   - Fauci: places/Fauci.md
-  - Coltre Oscura: places/Coltre Oscura.md
-  - Arena Di Valibenda: places/Arena di Valibenda.md
+  - Coltre Oscura: places/"Coltre Oscura.md"
+  - Arena Di Valibenda: places/"Arena di Valibenda.md"
   - Rostok: places/Rostok.md
   - Lirio: places/Lirio.md
 - episodes:
-  - Ep4: episodes/Ep4 - Golurtz's III.md
-  - Ep7: episodes/Ep7 - Il trivio del destino.md
-  - Ep2: episodes/Ep2 - Scampagnata nel bosco.md
-  - The Big Picture: episodes/the big picture.md
-  - Epx: episodes/EpX - E adesso?.md
-  - Ep0: episodes/Ep0 - Delitto a Villa Giada.md
-  - Ep5: episodes/Ep5 - Nowhere Man.md
-  - Ep3: episodes/Ep3 - Il Fantasma dell'Opera.md
-  - Ep6: episodes/Ep6 - Mirage.md
-  - Ep1: episodes/Ep1 - Botti alla sagra.md
+  - Ep4: episodes/"Ep4 - Golurtz's III.md"
+  - Ep7: episodes/"Ep7 - Il trivio del destino.md"
+  - Ep2: episodes/"Ep2 - Scampagnata nel bosco.md"
+  - The Big Picture: episodes/the big picture.md"
+  - Epx: episodes/"EpX - E adesso?.md"
+  - Ep0: episodes/"Ep0 - Delitto a Villa Giada.md"
+  - Ep5: episodes/"Ep5 - Nowhere Man.md"
+  - Ep3: episodes/"Ep3 - Il Fantasma dell'Opera.md"
+  - Ep6: episodes/"Ep6 - Mirage.md"
+  - Ep1: episodes/"Ep1 - Botti alla sagra.md"
 - events:
   - Squarcio: events/Squarcio.md
-  - Torneo Dei Rioni: events/Torneo dei Rioni.md
+  - Torneo Dei Rioni: events/"Torneo dei Rioni.md"
 - cantina delle idee:
-  - Colonna Sonora: cantina delle idee/Colonna sonora.md
-  - Link Utili: cantina delle idee/link utili.md
+  - Colonna Sonora: cantina delle idee/"Colonna sonora.md"
+  - Link Utili: cantina delle idee/"link utili.md"
 - mostri:
   - Zenofero: mostri/zenofero.md
   - Ramoth: mostri/ramoth.md
-  - Biechi Blu: mostri/Biechi blu.md
+  - Biechi Blu: mostri/"Biechi blu.md"
   - Oni: mostri/Oni.md
 - spells:
   - Rapsodia: spells/Rapsodia.md
   - Scissa: spells/scissa.md
-  - Ashardalon'S Stride: spells/Ashardalon's Stride.md
+  - Ashardalon'S Stride: spells/"Ashardalon's Stride.md"
   - Nebbia: spells/nebbia.md
 - oggetti magici:
   - Opale: oggetti magici/Opale.md
