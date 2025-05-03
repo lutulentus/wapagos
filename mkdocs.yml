@@ -4,19 +4,19 @@ theme:
 nav:
 - Home: index.md
 - .:
-  - Locanda Di Grumf: ./locanda di Grumf.md
+  - locanda Di Grumf: ./locanda di Grumf.md
   - Tesselberg: ./Tesselberg.md
   - Ep8 -: ./Ep8 -.md
-  - Ancora: ./ancora.md
-  - Tarocchi: ./tarocchi.md
-  - Tentazione: ./tentazione.md
-  - Svedese: ./svedese.md
-  - Fabbri Di Valibenda: ./fabbri di valibenda.md
+  - ancora: ./ancora.md
+  - tarocchi: ./tarocchi.md
+  - tentazione: ./tentazione.md
+  - svedese: ./svedese.md
+  - fabbri Di Valibenda: ./fabbri di valibenda.md
   - Readme: ./README.md
   - Index: ./index.md
   - Marchio: ./Marchio.md
-  - Mappa: ./mappa.md
-  - Sbronza: ./Sbronza.md
+  - mappa: ./mappa.md
+  - sbronza: ./Sbronza.md
 - guilds:
   - Askeladden: guilds/Askeladden.md
 - people:
@@ -73,16 +73,16 @@ nav:
   - Rostok: places/Rostok.md
   - Lirio: places/Lirio.md
 - episodes:
-  - Ep4 - Golurtz'S Iii: episodes/Ep4 - Golurtz's III.md
-  - Ep7 - Il Trivio Del Destino: episodes/Ep7 - Il trivio del destino.md
-  - Ep2 - Scampagnata Nel Bosco: episodes/Ep2 - Scampagnata nel bosco.md
+  - Ep4: episodes/Ep4 - Golurtz's III.md
+  - Ep7: episodes/Ep7 - Il trivio del destino.md
+  - Ep2: episodes/Ep2 - Scampagnata nel bosco.md
   - The Big Picture: episodes/the big picture.md
-  - Epx - E Adesso?: episodes/EpX - E adesso?.md
-  - Ep0 - Delitto A Villa Giada: episodes/Ep0 - Delitto a Villa Giada.md
-  - Ep5 - Nowhere Man: episodes/Ep5 - Nowhere Man.md
-  - Ep3 - Il Fantasma Dell'Opera: episodes/Ep3 - Il Fantasma dell'Opera.md
-  - Ep6 - Mirage: episodes/Ep6 - Mirage.md
-  - Ep1 - Botti Alla Sagra: episodes/Ep1 - Botti alla sagra.md
+  - Epx: episodes/EpX - E adesso?.md
+  - Ep0: episodes/Ep0 - Delitto a Villa Giada.md
+  - Ep5: episodes/Ep5 - Nowhere Man.md
+  - Ep3: episodes/Ep3 - Il Fantasma dell'Opera.md
+  - Ep6: episodes/Ep6 - Mirage.md
+  - Ep1: episodes/Ep1 - Botti alla sagra.md
 - events:
   - Squarcio: events/Squarcio.md
   - Torneo Dei Rioni: events/Torneo dei Rioni.md
